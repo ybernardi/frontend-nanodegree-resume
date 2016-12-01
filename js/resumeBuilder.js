@@ -1,3 +1,1 @@
-$("#main").append("Yuki");
-
-
+$("#main").append("Yuki san");
